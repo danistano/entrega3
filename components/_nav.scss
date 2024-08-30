@@ -1,0 +1,31 @@
+
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #37474f;
+    padding: 10px 0;
+}
+
+.nav img {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    width: 30px;
+    margin-top: 10px;
+}
+
+.nav-item {
+    list-style: none;
+}
+
+.nav-link {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.nav-link:hover {
+    color: #ffcc00;
+}
